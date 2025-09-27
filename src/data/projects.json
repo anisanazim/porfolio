@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "title": "Aspect-Based Sentiment Analysis",
+    "description": "Developed an NLP-based system to analyze customer reviews at the aspect level. Implemented advanced sentiment classification techniques with feature engineering, dimensionality reduction, and fine-tuned models for performance optimization.",
+    "image": "/1.png",
+    "tags": ["NLP", "Sentiment Analysis", "Feature Engineering", "Dimensionality Reduction", "Machine Learning"],
+    "category": "machine learning",
+    "githubUrl": "",
+    "demoUrl": "",
+    "period": "",
+    "role": "",
+    "teamSize": ""
+  },
+  {
+    "id": 2,
+    "title": "Medical MRI Brain Scan Segmentation",
+    "description": "Designed a deep learning pipeline to segment six distinct brain layers from MRI scans. Utilized a U-Net architecture and hybrid methods integrating active contours, multi-threshold segmentation, and deep learning models for enhanced diagnostic accuracy.",
+    "image": "/2.png",
+    "tags": ["Computer Vision", "Medical Imaging", "MRI Segmentation", "U-Net", "Deep Learning"],
+    "category": "deep learning",
+    "githubUrl": "",
+    "demoUrl": "",
+    "period": "",
+    "role": "",
+    "teamSize": ""
+  },
+  {
+    "id": 3,
+    "title": "Driver Fatigue Detection System",
+    "description": "Built a real-time drowsiness detection system using computer vision and CNNs. Integrated eye aspect ratio (EAR) tracking, blink duration monitoring, and adaptive multi-level alerts to improve driver safety.",
+    "image": "/3.jpeg",
+    "tags": ["OpenCV", "CNN", "Real-Time Detection", "Computer Vision", "Driver Safety"],
+    "category": "deep learning",
+    "githubUrl": "",
+    "demoUrl": "",
+    "period": "",
+    "role": "",
+    "teamSize": ""
+  },
+  {
+    "id": 4,
+    "title": "Movie Recommendation Engine",
+    "description": "Implemented a PinSage-inspired recommendation engine using Graph Convolutional Networks (GCNs) for personalized movie suggestions.",
+    "image": "/4.jpg",
+    "tags": ["Python", "Recommender Systems", "Graph Convolutional Networks", "PinSage"],
+    "category": "machine learning",
+    "githubUrl": "https://github.com/anisanazim/Movie-Recommendation-Engine",
+    "demoUrl": "",
+    "period": "",
+    "role": "",
+    "teamSize": ""
+  },
+  {
+    "id": 5,
+    "title": "Gator Ticket Master",
+    "description": "A ticket reservation platform for Gator Events that allows users to book and manage event seats efficiently with backend service support.",
+    "image": "/5.png",
+    "tags": ["Python", "Backend Development", "Ticketing System", "Event Booking"],
+    "category": "backend",
+    "githubUrl": "https://github.com/anisanazim/Gator-Ticket-Master",
+    "demoUrl": "",
+    "period": "",
+    "role": "",
+    "teamSize": ""
+  },
+  {
+    "id": 6,
+    "title": "ACIS-iChatBio",
+    "description": "Agent-based script built with OpenAI’s Instructor framework to fetch, validate, and structure biodiversity occurrence data from the Atlas of Living Australia (ALA).",
+    "image": "/6.png",
+    "tags": ["Python", "OpenAI", "Instructor Framework", "Pydantic", "Biodiversity Data"],
+    "category": "backend",
+    "githubUrl": "https://github.com/anisanazim/ACIS-iChatBio",
+    "demoUrl": "",
+    "period": "",
+    "role": "",
+    "teamSize": ""
+  },
+  {
+    "id": 7,
+    "title": "AskPY",
+    "description": "An intelligent assistant that answers Python-related queries using a dual-source retrieval-augmented generation (RAG) pipeline, integrating internal documentation search with web-based resources.",
+    "image": "/7.jpg",
+    "tags": ["Python", "RAG", "LLMs", "Documentation Search", "Intelligent Assistant"],
+    "category": "machine learning",
+    "githubUrl": "https://github.com/anisanazim/AskPY",
+    "demoUrl": "",
+    "period": "",
+    "role": "",
+    "teamSize": ""
+  }
+]
+
